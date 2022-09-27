@@ -1,6 +1,12 @@
 [
     {
         "username": "Emanuel101",
-        "password": "qwerty12."
+        "password": "qwerty12.",
+        "role": "admin"
+    },
+    {
+        "username": "Mjdesign",
+        "password": "teste1",
+        "role": "reader"
     }
 ]
